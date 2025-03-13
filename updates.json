@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "pplio@example.com": {
+      "updates": [
+        {
+          "version": "1.1",
+          "update_link": "https://example.com/extensions/pplio-1.1.xpi"
+        }
+      ]
+    }
+  }
+}
